@@ -1,0 +1,2 @@
+1.stim2,3表示Fig.1F 中 white 和 grey的曲线；进入stim2才可以看到刺激强度strength的不同（strength1，strength2）；dopamine_stim*_min_stim是画最小刺激时间 Fig.2 B-C 的
+2.UXF（含stim2和stim3）， 用于画uxf曲线, 即Fig.2 E-I 的; UXF 用的都是强度strength1(contrast1.1)
