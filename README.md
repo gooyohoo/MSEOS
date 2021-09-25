@@ -1,5 +1,6 @@
 # The Code of MSEOS
 **[Multi-Scale Expressions of One Optimal State Regulated by Dopamine in the Prefrontal Cortex](https://www.frontiersin.org/articles/10.3389/fphys.2019.00113/full)**.
+
 Guyue Hu, Xuhui Huang, Tianzi Jiang and Shan Yu. Frontiers in Physiology, 2019.
 
 ## Features and requirements 
